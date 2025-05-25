@@ -25,8 +25,8 @@ Zakładając sprzedaż dwóch działek za 850zł/m2:
 link do starego ogłoszenia: https://adresowo.pl/o/a8d3l3
 
 **Rzut:**
-![[Pasted image 20250526003113.png]]
-![[part1.png]]
+![Pasted image 20250526003113.png](./Pasted%20image%2020250526003113.png)
+![part1.png](./part1.png)
 
 **Opis:**
 Do sprzedania działka o powierzchni 1547m2, położona w Jankach pod Warszawą.  
@@ -48,7 +48,7 @@ Zlokalizowana pomiędzy ulicą Sąsiedzką a Platynową.
 link do starego ogłoszenia: https://adresowo.pl/o/q7l6w7
 
 **Rzut:**
-![Pasted image 20250526003027.png](./"Pasted image 20250526003027.png")
+![Pasted image 20250526003027.png](./Pasted%20image%2020250526003027.png)
 ![part2.png](./part2.png)
 
 **Opis:**
