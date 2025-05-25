@@ -49,7 +49,7 @@ link do starego ogłoszenia: https://adresowo.pl/o/q7l6w7
 
 **Rzut:**
 ![[Pasted image 20250526003027.png]]
-![[part2.png]]
+![part2.png](./part2.png)
 
 **Opis:**
 Do sprzedania działka położona w Jankach pod Warszawą, o powierzchni 1309m2, w kształcie prostokąta 24x55m. 
