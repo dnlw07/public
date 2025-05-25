@@ -37,7 +37,7 @@ Zlokalizowana pomiędzy ulicą Sąsiedzką a Platynową.
 - **Adres**: ul. Mszczonowska 33, Janki, gmina Raszyn, powiat pruszkowski
 - **Powierzchnia**: 1547 m²
 - **Wymiary**: szerokość 24 m (kształt trapez)
-- **Przeznaczenie**: działalność usługowa
+- **Przeznaczenie**: teren zabudowy usługowo-przemysłowej (oznaczenie 5UP w MPZP)
 - **Dojazd**: asfaltowy
 - **Media**: gaz, prąd, woda, kanalizacja
 - **Położenie**: w pobliżu przystanku komunikacji podmiejskiej, blisko Centrum Handlowego Janki i węzła dróg ekspresowych S7/S8
@@ -60,7 +60,7 @@ Zlokalizowana pomiędzy ulicą Sąsiedzką a Platynową, w bezpośrednim sąsied
 - **Adres**: ul. Mszczonowska 33, Janki, gmina Raszyn, powiat pruszkowski
 - **Powierzchnia**: 1309 m²
 - **Wymiary**: 24x55m (kształt prostokąt)
-- **Przeznaczenie**: działalność usługowa
+- **Przeznaczenie**: teren zabudowy usługowo-przemysłowej (oznaczenie 5UP w MPZP)
 - **Dojazd**: asfaltowy
 - **Media**: gaz, prąd, woda, kanalizacja
 - **Położenie**: w pobliżu przystanku komunikacji podmiejskiej, blisko Centrum Handlowego Janki i węzła dróg ekspresowych S7/S8
